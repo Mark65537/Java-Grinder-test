@@ -1,0 +1,1 @@
+go build bmp2sega.go
